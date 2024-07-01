@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>FORM</title>
+    </head>
+    <body>
+        <p>Please complete the form below to download your free guide</p>
+
+        <p>Fields marked with a * are required</p>
+
+            <label for="First name">First name*:</label>
+            <input type="text" id="First name" name="First name"><br><br>
+             <label for="Last name">Last name*:</label>
+            <input type="text" id="Last name" name="Last name"><br><br>
+            <label for="Email">Email*:</label>
+            <input type="text" id="Email" name="Email"><br><br>
+            <label for="Confirm Email">Confirm Email*:</label>
+            <input type="text" id="Confirm Email" name="Confirm Email"><br><br>
+            <label for="Company">Company*:</label>
+            <input type="text" id="Company" name="Company"><br><br>
+            <label for="Job title">Job <title></title>:</label>
+            <input type="text" id="Job title" name="Job title"><br><br>
+            <label for="Country">Country*:</label>
+            <select id="Country"name="Country">
+            <option value="AF">Choose</option>
+        </select>
+        </body>
+        </html>
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+
